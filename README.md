@@ -9,4 +9,4 @@ You can contribute good quality code for relevant problems in Machine Learning
 * Well documented code is appreciated.
 * Spam PRs will be labelled "invalid"/"spam"
 
-Add Code That Adds Value. Happy Coding!
+Happy Coding!
