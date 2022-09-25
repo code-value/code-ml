@@ -1,4 +1,4 @@
-# HacktoberFest 2021
+# HacktoberFest 2022
 
 You can contribute good quality code for relevant problems in Machine Learning
 ----------------------------
